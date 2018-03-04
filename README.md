@@ -7,4 +7,10 @@ If you do not have AppStudio for ArcGIS installed you can download it here: http
 
 How to Change the Basemap:
 1.	With AppStudio for ArcGIS open, choose ‘New App’
-https://github.com/kbogue13/Lab4/blob/master/images/picture1.PNG?raw=true
+![alt text](https://github.com/kbogue13/Lab4/blob/master/images/picture1.PNG?raw=true)
+2.	A new window will open showing a number of different headings. For this tutorial, we will: A: App option, B: give the app a title and C: click ‘Create’
+![alt text](https://github.com/kbogue13/Lab4/blob/master/images/picture2.PNG)
+3.	Clicking ‘Create’ in step 2 will bring you back to the home screen where you will see your newly created app. In this example it was named ‘ChangeBasemap’, but yours will reflect the title you chose.
+
+A: Select your newly created app
+B: Click ‘Edit’ to open your app in QTCreator
